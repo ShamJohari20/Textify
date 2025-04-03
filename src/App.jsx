@@ -5,8 +5,8 @@ import screenshot from "html2canvas"
 
 const App = () => {
 
-  const [fcol, setFcol] = useState("")
-  const [bgcol, setBgcol] = useState("")
+  const [fcol, setFcol] = useState('000')
+  const [bgcol, setBgcol] = useState('000')
   const text = useRef()
 
 
