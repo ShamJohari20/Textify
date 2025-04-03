@@ -39,7 +39,7 @@
   align-items: center;
   justify-content: left;
   flex-direction: column;
-  row-gap: 10px;
+  row-gap: 23px;
   margin-top: 15px;
 }
 
@@ -47,8 +47,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 400px;
-  width: 400px;
+  height: 350px;
+  width: 350px;
   text-align: center;
   text-justify: auto;
   border-style: solid;
@@ -89,6 +89,7 @@
   border-style: solid;
   border-radius: 7px;
   stroke-width: 5px;
+  margin-top: 10px;
   padding: 10px 10px 25px 10px;
 }
 
