@@ -47,7 +47,7 @@ const App = () => {
       <div className="parent">
 
         <div className="textbox-c1">
-          <h1 ref={text} className="text-c11" id="text" contentEditable="true">Creat Your Art...</h1>
+          <h1 ref={text} className="text-c11" id="text" contentEditable="true">Create Your Art...</h1>
           <button onClick={downloadImage} className="btn-c12">Download</button>
         </div>
 
